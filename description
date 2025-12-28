@@ -1,0 +1,19 @@
+📊 Weather Analysis Dashboard – Power BI
+
+This project focuses on building an interactive district-wise weather analysis dashboard using Power BI. The dashboard visualizes key weather parameters such as average rainfall, minimum and maximum temperature, humidity, and wind speed to identify trends, patterns, and variations across districts.
+
+The dashboard includes KPI cards for quick insights, interactive slicers for district-level filtering, and multiple visualizations such as scatter plots, line charts, tables, and column charts to analyze relationships, seasonal patterns, and time-based trends. Conditional formatting is used to highlight significant values, improving data interpretation and decision-making.
+
+This project demonstrates practical skills in data modeling, DAX calculations, data visualization, and dashboard design, making it useful for understanding real-world weather data and supporting analytical insights.
+
+🔧 Tools & Technologies
+
+Power BI
+
+DAX
+
+Data Visualization
+
+Dashboard Design
+
+
